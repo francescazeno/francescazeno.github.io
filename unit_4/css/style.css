@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:500&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Cabin:700&display=swap');
+
+body {
+	background: url("https://i.imgur.com/FSXTfFQ.jpg");
+	background-size: cover;
+	color: black;
+	text-align: center;
+	font-family: Lato;
+}
+
+h1 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 50px;
+	text-decoration: underline;
+	padding: 100px 0px 0px 0px;
+
+}
+p {
+	font-family: 'Quicksand', sans-serif;
+	padding: 50px 300px 50px 300px;
+	background-color: rgba(225, 225, 225, .5);
+}
+.contact {
+	background: none;
+	padding: 10px 0px 80px 0px;
+}
+
+h2 {
+	color: white;
+}
+
+ol {
+	padding: 50px 100px 50px 100px;
+	background-color: rgba(225, 225, 225, .8);
+	
+
+}
+hr {
+	width: 200px;
+
+}
