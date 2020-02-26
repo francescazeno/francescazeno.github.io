@@ -22,7 +22,7 @@ p {
 	padding: 50px 300px 50px 300px;
 	background-color: rgba(225, 225, 225, .5);
 }
-.contact {
+#contact {
 	background: none;
 	padding: 10px 0px 80px 0px;
 }
@@ -80,10 +80,6 @@ li {
 }
 
 
-hr {
-	width: 200px;
-
-}
 .holder {
 	display: block;
 	margin-left: auto;
@@ -107,4 +103,10 @@ article {
 	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
