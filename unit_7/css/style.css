@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin:700&display=swap');
 
 body {
-	background: url("https://i.imgur.com/FSXTfFQ.jpg");
+	background: gray;
 	background-size: cover;
 	color: black;
 	text-align: center;
@@ -34,8 +34,10 @@ h1 {
 	padding-bottom: 50px;
 }
 
-h2 {
+.timelineheading {
 	color: white;
+	text-decoration: underline;
+	font-size: 40px;
 }
 
 #two_column {
